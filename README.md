@@ -43,8 +43,21 @@ Learning: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go
 ### (2026-09-26) [Katabatic](https://github.com/datascience-works/Katabatic): open-source synthetic tabular data
  
 **Project and Dev/MLOps lead**
- 
+
 ![Top contributor: 213 commits](https://img.shields.io/badge/top_contributor-213_commits-2ea44f?style=flat-square&logo=git&logoColor=white)
+[![Releases: v0.2.0, v0.3.0, v0.3.1, v1.0.0, v1.1.0](https://img.shields.io/badge/releases-v0.2.0_%C2%B7_v0.3.0_%C2%B7_v0.3.1_%C2%B7_v1.0.0_%C2%B7_v1.1.0-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/datascience-works/Katabatic/releases)
+![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+
  
 - Built the CI/CD pipeline: GitHub Actions running **Ruff**, **Bandit**, **pip-audit** and **pytest** with a coverage floor, plus a path-filtered **per-model integration matrix** and multi-stage **Docker** builds
 - Wrote the **PyPI / TestPyPI release workflows**, Dependabot config and CODEOWNERS
