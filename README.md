@@ -1,56 +1,78 @@
 # 👋 Hi, I'm Alex
 
-*“I only achieve simplicity with enormous effort”* ― Clarice Lispector
+*"I only achieve simplicity with enormous effort"* - Clarice Lispector
 
 📍Canberra, Australia
 
-🎓B. Software Engineering, M. Cyber Security, & M. Applied AI
+🎓B. Software Engineering, M. Cybersecurity, & M. Applied AI
 
-## 🧰 Toolbox
+## 🧰 Toolkit
 
-**Languages**
+**Languages**<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![C#](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Go](https://img.shields.io/badge/Go_(learning)-00ADD8?style=flat-square&logo=go&logoColor=white)
+Primary: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**ML / AI**
+Secondary: ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)<br/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+Learning: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+ 
+**AI/ML**<br/>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyG](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat-square&logo=pyg&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-2B2B2B?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd%2BUAAAGDUlEQVR42q1WbYxcVRl%2B3vecO3PnY7u2SGygQgrdYGf6IdVQLbZbl0S6LUXTdCYBEzEKqREajImRWNq7U5fYmBBjQ4kKtT%2F8SJ0xEGDZugi0SwqkfpVud8ZKjBZUaFnr2u7Ox733nPP6Y3dxoVssa%2B%2Bfm3vuzXnu%2B7zP87yHcMkvIYBk8c5nOhKgB8eM6taMsaQ0f5SA3UmXGI0AwXXfeCLrpZODSM29%2FtrGcXeW5vBb%2FtXQrdHv8aVE6wwOKoAk5VNX6LVfv7Lxgn2MttKj0iPt4RsugvqKft%2B7BgGjlqdCYeKxUgGQKwhK5CbeCyvTdxYmChuU1nVk3DlkYKGJBCG9L7oKZUalaC%2F4I1dcobBlS5zf1reKvMQzLpnNXGb%2BiSb5aKo2cOvf2y8OUIRAJACQC359lYLrcmKXgsgj0KvWhgf%2F2PvZKgDktz35GU5lH4cxp8Ta52Klb2SgoSV%2B5HhtfC9drOoK5bKq1dp3MKl7WOt5DAEAOBCsiQ2MeURgh1Ui%2FZAQDSGubzpeuuUvM6jqf%2FVMOIeKJpf5mc7O3eyaY3BObIN8AIS0NKEYCjoJEMPFrT4zUv%2FiiT2bzqBcVigWHIIeQi1PqBTde4qmUC6rSpEsBwP3qEx2sxsfNTF5yiOnPoFhMByqdC2akpRE1IrJz2ix9rUTezad6QwCPVgsGgBAaZKO96xwom9YHjzeblzytyrpXxPHRrJoql3YjS68CEBwBCtwH%2B7Fm7hMEmTJOTGKXH6otOFVBAGjVHLTt%2BUp2grlsvrvPWAUKwwRGJftIO0tRNykFhJqM55FF56DhY8YaazEy7gLjyGGR%2BSsKC%2BhBbwKADqx9jyfa0AIJXKVyYXK2ybe5w8StdT9%2FQYqpWAjJ0S0AKfhkISDAkFg4GMh3kAKIRyUMBFEqO1CxGmAZNn2p24W5d0trOeR2CF27ruDpe6Ti7b2J0V5iyWOhEGkYWUAq%2Bh29IExBkABaOEwPooGfLRhnMQ6EnEnAWCwNiLnqXTpjv47xPN%2FbFWKExIh0mmo%2BshJAT8JwkblJRfauCVETOSshJSkm%2FEybsPTaEcTA%2Fgk9uFWOLBlpdjF8ZsZlsW%2FKa0%2FN6mRd4DSkh0H%2FmZ1asFd8X6zmo%2FQbrlDjugV2kcI61w%2FBD9huIYQ%2F5JYeWIi00BKpSiCgsU4UpSSUJhBnMzAhGN3VnvW70WhrGZKJQ3QfLah7eaX9EcwhJVYYQ7rNTbVPPvz6rc3fmHqw%2Fz9T9%2BJhH5Y%2BW2ZtrgBKwQLjaw0RVgJlBeZ8XO7qg9s2ItAGCWaMQLVh9befqPz53Ycja5yQ8jLE3QTOJlWNm48OLK2Y3jRsm8m%2FnV1hJEfbHvlg2uK%2FRCaI87NB0QTxIoQs%2BezhM3e6gMbSoVCWdUeXuIuKBpj9VYdjv70hL%2F0hmN2OdLSgKqfeah66h%2F78cMe%2BTMhAtYLAuFaiV4B8Plc8Kt5zHKdGDEg%2BpbyM59zYX0hALyVu5w6g4N6EIfcuz34tvEXbe1Ptl%2BubyLbXGCh%2F3C0tOF3F4o59ECmgnwizAe6tPaedc6cVbH91LHe7uo7Jsi7QGmmxZnUdV6gB4cUaiPSmSvQiDvwJ51MXYOo8Rozn7akhl0c7q72bjw2fdJMizYhBKBCvkKValVmomKGCQIAkt9%2BYBd73tfFxKqp5zArhTRFcNbUXRx9ubpz3S8mReQublrMnOoKlaLNBf2bPT9biVqhKDF0A6rOkJYjLideQmsxYZ1AHx8urTsxxeTszjS5qkwG8VfFOVFi3XdoDx6lgPdim%2Foa79etyBkvlc2Q2Num5%2BrsACcpJ2BB6DR14HW6Bc8D0NAwuBWDmEtjMKKEiD8MAIM45GYPGASMCVWd8ti512m%2BHEUehAYAQR9WYxRtouFIhE9Pr1DPCrCWn%2Bg98T6t1OpxSdm7cZ9bQ7%2FnUXwAh2WZTSp4plW37Lg8UeFah8m4nwVgRSBCiw%2F9%2FfhYVL8ymfI%2F1iCfhlwH%2Foor4ScUE1MsJr53uHfdU0EQ8GDp0%2F%2BHSqcdrgBgyY4DW4jVl0jsckAiqORhK9H3q0H3wKQ6ZcrX%2FwGJpOQLVI05EAAAAABJRU5ErkJggg%3D%3D)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**MLOps / DevSecOps**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+ 
+**MLOps / DevSecOps**<br/>
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd%2BUAAACwUlEQVR42uWXz2tVVxDHP%2Fe%2Bm2qTYJMI0Y2gtqSkAe3WpS4ECXRRCoIbdWn3QqF00VXJSuiui67splCytf9B0UbRiL%2F6w43iD1qjSdOWxnfvp5s5eHp783zS1k0HhnM4d85858d5M%2FNQGYKLWHeoi%2Bq%2B7FtvSB2o8IKAk%2Bof6pr6kToW52XwvwJYqFXwlPqTz%2BiG%2Bm4mW2XGvRBgGZfb4ZpQH6uNupEBL6qzrTAXsVaZrqILpA0%2BpR5Rz6jLah2Axr4f%2B1X1Q3XrIA8LFaAA5BnNAgeBw8ABYDr7JtDEWgA9%2Fkp3gfeBy8BuYC8wA7wJ7KmAMhS8DpwKoP0tRRsBMBLyvZYBd4BrwLfAdeAxcAHY2TKGQi2BUWAprACow4gR%2Fk4PgJvApbizDNwGfs9kRoH7wHjoKhJXofizANsAXgkPesAj4FaEZwm4AnwP%2FNJhSPK8CcA6zhIYABXwAXAss%2BQs8E2AfBegXcrL2DetvJrll66QJuESWIkHUucyWc5ypZ364tt24Adgog1eZoJpnQrPq0xBP7gZADYUVR1ndSgv%2FqlyNsnFS6X%2FB2B6DC%2BFquzh1K2q8J95%2BEmUph6wLaubRVY9qhanSpRXkuGMjLYxph5Xv1ZnntdEB3Dq%2FNPRN81amaZuHnlMtAAcBe4Ba1H5f44Sl9aV4NWQWQd%2By97CCPAQmGxVmjrvh1XkcBy4CLwxRICaAFqPgv4kDFwH5oEtLdkyASbqBehbwPnoHEXWM%2Bssd%2BWQeTMrm1925SGNGScj7E9jlMipzs6b4DRu9LOxo5%2FdOT1oiEqgn4fwffWQuqD%2B2AJPAE3r%2FGmsK%2Bo7abgaNBr21FfVWzGLpgluVJ1Xv1AfdYA3mWdX1bnciUFPPAG8HR7u6JjqptUT6jn11xb4V%2BprrYg9dxBOoO%2Bpu7LfWq9jZp1TP1Zvq59u9lfgTzsucPrVqmP2AAAAAElFTkSuQmCC)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=flat-square&logo=precommit&logoColor=black)
-
-**Security**
-
-![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=flat-square)
+ 
+**Security**<br/>
+![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd%2BUAAAIVUlEQVR42n2Wa3BV1RXHf2vvcx9JbnLDJZKbRCC8E%2FAFY3npwCBqsA50xsdo1Q5Op1NndDrWouKrRac6VTtaFVBbbcWZYrUKo0WrYoHIQ6WQDg%2FB8EhMSBAIhDwv9%2Bbec%2FbqhwR5iK4v58M%2BZ%2F3Pf6%2B19v4J5w4BjLU2CIIAYAwwe%2FSo0TMi4dCI8vKKYi%2FkyYGWlp5cNtO8d1%2FDJmANsMOI4FTNQB53rsRnhxERJ2JwLpg2orLyVzU1NTWzrrgiMWnSJBKJBPl5eaBKJpOm90Qf27%2FcxacbN%2FaurV1XW7el7kXrsh8Gvg9ggYAfCGOMAYiFw%2BEld915p79v3z4diEBV%2FYGnU1UXqAap7jb%2F8N66oGXTv3Xrm6%2FpL%2BZeq3Fr%2F1ECZabfjv0%2Bh8Za64IgGFFdVfXWs8%2F%2B6UdzrpmjgAuCwAAiIhgRnAhNO78g9%2BErhLduJPRNOwfaM%2ByPDAlk%2FOWyXZ1ZtXt3w94d9Tcb0lvdaU7lNGfOOTd8fHX16rdXrBg7vro65%2Ft%2ByBiDqKKqGCNkxLDt%2BSeIr1xC%2FJBPKBNhSyjMqqIIF08cyfSxRVSYtP9Nc6f369rWjrVH%2FavMsQN1DgzgBJBFixbJXz%2F%2BOFLY2fmfd1asmD5%2B%2FHjf933P87wz9tsHahfez%2Fmv%2F5miojjOwaGosKU8xpUxj4qeDJmj3aS7fIqikeCA8ewt3fL1zqxM07av2wREAGuMCUT16ZXvvnvfvHnzcr7vhzzP628M32fHyndADJ3NTQx58gmSycFkfB%2FrlJ54mIRTtL2PtAMJG4wRfFUGof6qRIF3X3vwVntj480OjKiqiMiE2%2BfP3%2FrasmVeEATGWisaBKi1fPLo70g8%2FSSRWAESEhKxfHztr4UCIaeoU7Ihiyegqv0LQA4otQQP5UJ2cZYa09K02hhjtKSk5K4FCxZEABURUe3%2FoscPsB98QG5YEptMMKSokNxpYp4qLdZyKOKR5xyBOyUG4AG9vnK7dVRa7g5AjKoOmTVz5twLLrxQA9%2B34hwigljL58uXET3YRGskgsn0kQ2Cb7tMBjqgLGZZHYrQGgkTtQYncsYIpEXMCAKdLTpTzh85wQCXz5g5swLnsJ4n4nm0p1KsXPoCHb%2B9n8pYHtMyGYoHXH%2BbzkAurZQPLSTuOV7vTuE6eggHPmLPGj1VnW4p8Kxe5cWLiydPmTwZjHH%2FW%2F2x7VyzhtSnaxj89X5GFxchKH4Q0OZ5RFXJGxBGB9RLQuR3xBhXcxMNvV3I%2BvUkj7YQiRWiKKa%2FllotTiuQy7xkSUnVkMoR1D7%2Be9J%2F%2FAMVeRGq8yOEE8WAcjgQPhmcYFrncQpO%2BhNwWSU5sYwjXe2MuvVBZvzyDhxw%2BFg7bYvvIfLme6CDAB8fkTgqecIwUzx4cFHL3nqyLy2WqcOSFCSKMOEwO0MRNrX3sOGCSxhSM4%2FiY8cpsLbfmhO8AuFg9yG2503hop%2FehvN9JJejvGQwYx57FXfNKKQvA0YIQKJAUqTQSCym6R07Kc30sK83RafnUdd7gt3RQnqfeZ55S17m4rnzaA7nY5xDjcXl%2BviibDQNc%2B9j6pJXKS4sQKxFQiHU%2BUQ0jJt1Jd55KTRjwfRXIEDVC3J%2BB3lRmuIl2vPja9E3lmMeeIQx%2BQVcNHs2pWXFDC4ro2HGLNIb1pBfMog9qRTDHlrE5FmzgP5jT%2BRU%2F3qinIgNI3%2BoIIfBE9UuRI4pXV7jri93Bcmy6zt%2Fdrtc98CD7K65liAUYvqcOWhfJ%2F7xA4QT4ygcUorvFCXLkaoJXDVlKur7YAxizHduvb6coOf1d7NVtBOjvY5Gr729ffNX9Xv0zocfEdQyZe7VkD6C39mIV1SKl6hCBbLd3eSFw7SRIXrNXOL5ebggwJwlJgMtnO46jhdR0gGEBflSRQ6K2WiAz2praxsjNiDi2p3f0UKQTuFU6OrKEaAc6suRaj1EUbFHU2EJVXOvP3nHnIMVhIwv9LVuJaqGQFQdIhsC7XTOrDZGpHPN2nUr1q%2F7RMgrcM4FiJeHRBMse%2B45Hpt0CXtuqGFURzN9QyOcmHQ5I8eMRJ3DyJnAoM4BQuu%2BA%2BT37kB6YuT7gasXKxvUfiQt%2BxtM4JykUj0vPvPCX7rBGhOKqnoxvLw48xfcQ8nYcYS3bWb8pYVsO5JhzA3zMZxxZPaLKagGIEL9Ry9TFT9GV6NHXgReyRq%2FBe%2B5k79nrTV44fC9Sx%2F%2FjapqNtBTkVXVNcvf0H%2FecpOuXLhQs6rqnDv1gnMaBCfJQ3Xde%2B%2Fr9kfj2vdEhXaUleeWV1VqdFjl0oHN7z%2FzbrwRO3PRTC9ZlPzXintv0%2Fa6N7NNB49o9rS8uQGQUT%2Bnge%2BrC3xV53%2B73pVS%2FeDlpfr5g6Ua%2FD2pvRPLs7WVw3TMyMr%2FlpaWFizqv%2FFPDY%2BqIlOmFI5t2LfqqYk64%2BKppf7%2Bsstt%2BPwaqRg7mfLK4eRH%2BQ4BdLSnaaz7lMNrn6W68DPGVsbUX2b99Xu80F1hu6e%2B182RI81NehpinIaHOL3hxnhy3c7XF5534ic%2Fv6iLzAjn7%2FVKbE%2F8ErGRoUjRcMSLQboNmz6I172dId4uRidRe6TIdbyldkVbiKcibNqf4lZzuKn5JM%2Bci0uNgFNFqBh579VZefjupMZnV2eIDM1okDihvWHRnLEStjmKPKu4fKE1Kp11IpvrDX8TSb8dlcXakHvU0Jo%2BXez7QFgGqqvBtMrhoRbumHHCXDc17MZdWmQZHlPy4w6c0NsJrV2ObSnY7JnmLwrk%2FY6QvGS%2Batil%2FZ1szqZv%2BQEotmaAJd2VI%2BMc5LK87mByqc8EwQwyoqKG7qNhU98TZQuD2CifN7aZfgC1A0JnTw%2F%2FB2ZOLfK4EXp2AAAAAElFTkSuQmCC)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## What I've built
-
-### [Katabatic](https://github.com/datascience-works/Katabatic): open-source synthetic tabular data
-
-Project lead and Dev/MLOps lead for 40+ contributor framework.
-
-  ![Top contributor: 213 commits](https://img.shields.io/badge/top_contributor-213_commits-2ea44f?style=flat-square&logo=git&logoColor=white)
-  ![70% of commits to main since July 2026](https://img.shields.io/badge/main_branch_since_Jul_'26-70%25_of_commits-0969da?style=flat-square)
-  ![Merged 22 of 29 PRs on main](https://img.shields.io/badge/PRs_merged-22_of_29-8250df?style=flat-square&logo=githubactions&logoColor=white)
-
+## 🔭 What I've recently built
+ 
+### (2026-09-26) [Katabatic](https://github.com/datascience-works/Katabatic): open-source synthetic tabular data
+ 
+**Project and Dev/MLOps lead**
+ 
+![Top contributor: 213 commits](https://img.shields.io/badge/top_contributor-213_commits-2ea44f?style=flat-square&logo=git&logoColor=white)
+ 
 - Built the CI/CD pipeline: GitHub Actions running **Ruff**, **Bandit**, **pip-audit** and **pytest** with a coverage floor, plus a path-filtered **per-model integration matrix** and multi-stage **Docker** builds
 - Wrote the **PyPI / TestPyPI release workflows**, Dependabot config and CODEOWNERS
 - Migrated packaging to **PEP 621** / Poetry, with pre-commit hooks, Makefile tooling and branch protection
 - Designed a **model-promotion contract test harness** that decides which generators (GANBLR, CTGAN, …) are fit to ship
-- Acted as maintainer and GitHub admin: review and merge PRs, triage dependency vulnerabilities, report on sprints
+- Acted as maintainer and GitHub admin: reviewed and merged PRs, triaged dependency vulnerabilities
+
+### (2026-09-04) [Zotero Citation Counts](https://github.com/Talos-1/zotero-citationcounts): plugin rewrite for Zotero 8–10
+ 
+**Updated an open-source plugin from Zotero v6 -> 10**
+ 
+![Release v2.0.0](https://img.shields.io/badge/release-v2.0.0-2ea44f?style=flat-square)
+![Zotero 8–10](https://img.shields.io/badge/Zotero-8–10-CC2936?style=flat-square&logo=zotero&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ 
+- Ported the plugin from Zotero's retired XUL overlay system to its bootstrapped plugin architecture, with a new manifest, localisation, and settings pane.
+- Fetches citation counts from **Crossref**, **INSPIRE-HEP**, **Semantic Scholar** and **NASA/ADS**.
+
+### (2026-07-11) [Ground Zero PS5 glyphs](https://github.com/Talos-1/ground_zero_ps5_glyphs_mod): Unreal Engine 5 game mod
+ 
+**Released on [Nexus Mods](https://www.nexusmods.com/groundzero/mods/3)**
+ 
+![Unreal Engine 5.6](https://img.shields.io/badge/Unreal_Engine-5.6-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![FModel](https://img.shields.io/badge/FModel-3D6AE0?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd%2BUAAAFsUlEQVR42q2WTWxcVxXHf%2BfeOzPx98dYdhyHUCdtUFs7DVVrKSExtqdJnXZVtY3IhgUCFgiJRTddINkRbLoKlYjEAgmhCgSxwBBFFJISO03TEikkUlUhkVSCWmpR%2FdEZz4dn5r1332ExY3fsukkR%2BUtH983Mfffc%2F%2F2f878jNEBVzcmTMzIzczIGlHsg6aAaagroBNJAL9APDGQLwUAuF%2BzOFcP%2BxWzYf%2BDBtqb%2B3qbDsu1CiQTVIEgA7UAX0AP0Af35YrDrk9WgP7ta3ZktBL3ZfJDO5cPObD5sy5d8Ml9SckXPaiEkXwpYXC6yZ3cfZ1%2Fe99rg7vZvujozKyJeVZ%2F55533v7fwwULPzO9m%2B1ZWlrry1fa2SvIJky9WWC0quUJArhBQKAYU16qUKyFBEBJFHtUYgdgYUWuEVNKSzVf1Oy%2FsNQ8MtJ0BcADT09OqqnLjxs0f%2F%2BCll7%2F64UcfEgQh1WoZr0lSgy%2BpSfXFhkCtM1gjWGPEWpGkEVLNiCCAFcCsaxGEkd%2B%2Ft8dlRtJz1sotVTVGVe3p06djYOTiG5cP3rx1KxQRn0wm4o6OLu1uE22v%2FkXSHQnb0WZd6w5xO5K4hI2twRs0MrGPpB6sh8FTLJR5%2Bms7efSh7jNxDIAx67otLi5%2B9%2FKVN6Wjo10AC5g49hJLkwSr71FdegMkhcYBaAR8GsJnP0dRGPekm03myc5%2FAK%2BrqohIZOra9Vz665Xn3333PVpaWiyAiNRDMa6JcOkiUe46YptAw3pE24aVmHyhpJlDe%2BTIEwNnRSSar5GoaQicvHL1rQ7vfSRiHLK1IwQxCcKP%2FwC%2BgOscQRBUA9D6XJGG9kKbUtZkRjoXgV%2BpqgAewKiqvfb2O9968%2Bo1bW9vN7FqjRnSMIIYgxhHtHSR4KNf40u3QSPEOESkzi7AEFIslPyhx78kk0cHfyEiq%2FPzWJEaCwccvjx%2F9fGl5WXS6bTx3gNCjaXAxsYVMOCa0fIHhOUFTKoP07IP27QHSXaDpDAWjYntsUO9lWTS%2FQxUxsaI11dxwK6l5RURMbHUsHGMW491A3ZHbQvBElH1P3iTQpJd2B39lOnxQ48cdE8dGZwVkX%2BfO1fr8caEN4cffbjknGsRRBsy3hs2iZACYjRcAb%2FC6krWZE7t14He9lcBefHFza8YEbnz7InJ2eHhIdbKZW%2BMaajQewWI1DQ3NkngrR%2Fcu98cy4y9lUi461NTU9LIjpoosGvXzp9OHs9QqVaMte4LJDKIGGj4zllLsVBg8tgEjw0P%2FSSKPGNjY2brobipqSmTSCSu3%2Fj7zWu%2FOff7w9lc1jvrrG6j4DbNsvGbj%2BO4O502mYnRO8CFxlbYxHB6etpEUcRjB4ZfffpYRgqFEtZtZmmtxTqH2xR2Y0wmk5RKa%2FHE2KiMjx49KyIBfNoKmxgCvr6b8xNfP3Jn9vyFh7z3sRgxaM1x1tbKBEE1buSpjQyFOAhDeSoztgK89nnsAJyIqKo6EalWq9XfHhge%2BuE7f7set7a2GkUJqgFHjxziwX17jfd%2BI6WqonWXKZcrZvCBL5MZH%2F2liHwyNzfnxsfHo20Tbughgve6Zp2r7b3mMhr5WL7xwnMrz544fgqorBv7esHVRwESwNt3Y7cpoari1afiOK7ZmAiqaCLhJF8sVpqbmy6VyxX%2BX7itRaR1L12%2FUhGDc07X1sqtQPlzCnYd8XaF8pmE8%2FPr02vsjJEN9zfGYMTEQFi%2FyuRei94NdR1qGath2JTPFz1i1TY4jhGU%2B4RNTpDu6lqZPD5hwyhMlMsV7xL1fjSWL%2FK38X%2BCqhpVTarq9y%2B8fil34rlTuucrB4OhJ0fjP174879UNVmfJ9xvqOr%2Bj5eW%2F%2FSjV87ovuERnZk9f1tVE%2Fcj4dYqZW5uzonIbSPyjI%2Fjbx8YeuSVnu7O1rv11n05XqamTP35YVX9%2BcLCQtP9YPhfPMi6H4nTfcsAAAAASUVORK5CYII%3D)
+![retoc](https://img.shields.io/badge/retoc-B7410E?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTQgNmw2IDYtNiA2TTEyIDE5aDgiLz48L3N2Zz4%3D)
+![UAssetGUI](https://img.shields.io/badge/UAssetGUI-333333?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd%2BUAAAD9klEQVR42t2Wz2tcVRTHP%2Be%2BH9O8mbYxJJkpQpFUqCRUBUW6EWot2VQ3loSiuHDTXRciKGqS19fEH4iiWEHwL5BExWKL3RSLRShSFJHipqVgSyVpmmo7v96b9%2B5xkZmmY%2FNjKqkL7%2FK9c%2B%2F3fr%2Fne8658B8vWStAFWEGw7m2WCsRdl1vooroNM6K%2F0OMhpi7Pddd6TARLJCV3%2Bjdkgu8nVmm21B1XEd%2Fb6A%2FyvjVCwDTIzijM2T%2FWlINMRJh%2Fww39XQ5QQS63%2FdML34zNFXiulYQe6xe1bHud6%2Be1xEc6RBUlgO7EW55aINrv%2FZ8sx2gWsmqChcFyYCtQZfpxkAjsfNxovs3Ts6dbO1dC9C0mQPQd7be52KPeZ7ZXq%2FbOInt28bTh%2FO%2FzT0SRLOPBpIOxUn2clyz1zxHej2XozfC0iAR2klOl3I4g5GIrBzWJ%2FN5Z1tSs3WL7u%2BamDvarse1K8BH5bD3exJzItfl9CWV7BOB3dqB602LnYyS3XyrvygqL6KQpvphPpw7qiF%2B8%2BZyy70HyRWi%2BZ9Sq69kqZJz5alKWHxCIqyOrOzsJUkPLQaZxDwZdMmmWjWriHU%2FbQKlzdwogAjKERINMfn7r35ej%2FWCHxgUHQZgcHWWbruDdADfUVuzF%2FNTVy6LLIIs4zTVIYyM0ihP6C84sk1hAOBUp6YBsIqjIIKkK4G1uXpR5hTAqDgAu4ZW39cGaEQvSaoAD9x4vdS3ajc5h6KAMohFgcvN79IJoAWQVH6oVbM4CEy3ePZ5ibAs4Omd9epLhC1P9O%2FxfTNE3YoR%2FQ6ANRjeOqjVLcph%2F3Q%2BcEbiul1IG9mewtT8z63%2FzfKxAloO%2B0qumNO5DebBctWeKVzfuIuPzydrpWLJNIOoKlKfktfimh3O%2BdID5kT1UOnV6yozEv1RbbJzy5SGPUc%2FUGUAqyqq38iR87H24APJXbe26%2BP9Twe%2BfOX7ZhOpUkn0AsqvoKkR2e45ssP1BaxST1QdR24mqb5QiGaPnT2A9%2FhnNDpv3k1pF8b6d%2BR9eR9k2A8EnGZoBsSWSqxnEP0W5c0gZ%2FxGpkk9Yd%2FmqdVBl3XU7SMnmerfaTN2AwOocUT0kkFPu3bupETYynjxWdfjC4P4Fk0aDZ4rTM4e1xBXosWS6WwAh5hWQ18lxgf4a6z4THy4GDcmSxofLsbl8eLeVr7v%2FokxgsMgcqpV1OcQhlBGF93akq88Xtzre3wpIjlVjWsN9m1eZNo2tmRdniNN%2Bf4BWotTXiocnp0mRFqgZj0AJSLVELcwOXu81mCfVY29vNNlRB8TUIbWh9gd6%2BwBPICbE6WRSlh6r%2BWFe%2FruvB1AuUfMlnX4GoP4%2F7v%2BBr8o8HdjDXMMAAAAAElFTkSuQmCC)
+
+ 
+- Analysed the game's packed asset archives with **FModel**, finding PlayStation button art plus a matching mapping table.
+- Converted the Xbox mapping table out of Unreal's IoStore format with **retoc**, editing its import table in **UAssetGUI** to point button icons at the PlayStation textures.
+- Repacked the edited assets using IoStorePak.
